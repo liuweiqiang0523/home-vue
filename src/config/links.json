@@ -2,25 +2,25 @@
   {
     "type": "Email",
     "icon": "fas fa-envelope",
-    "url": "mailto:supremehewhyplain@gmail.com",
+    "url": "mailto:liuweiqiang0523@gmail.com",
     "hoverColor": "#e78b0a"
   },
   {
     "type": "Telegram",
     "icon": "fa-regular fa-comment-dots",
-    "url": "https://t.me/ilancet",
+    "url": "@lwq0523_lwqbot",
     "hoverColor": "#e78b0a"
   },
   {
     "type": "Github",
     "icon": "fab fa-github",
-    "url": "https://github.com/solaireh3",
+    "url": "https://github.com/liuweiqiang0523",
     "hoverColor": "#6500fc"
   },
   {
-    "type": "Steam",
-    "icon": "fa-brands fa-steam",
-    "url": "https://steamcommunity.com/id/whyplain",
+    "type": "nezha",
+    "icon": "fa-solid fa-xmarks-lines ",
+    "url": "https://nezha.122666.xyz",
     "hoverColor": "#007aff"
   }
 ]
