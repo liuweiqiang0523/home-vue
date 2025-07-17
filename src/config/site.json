@@ -1,12 +1,12 @@
 [
   {
     "name": "博客",
-    "url": "https://xxxh.de",
+    "url": "https://halo.775432.xyz",
     "icon": "fa fa-blog"
   },
   {
     "name": "图床",
-    "url": "https://img.xxxh.de",
+    "url": "https://tu.122666.xyz",
     "icon": "fa fa-image"
   },
   {
@@ -15,19 +15,19 @@
     "icon": "fa-solid fa-calculator"
   },
   {
-    "name": "监测",
-    "url": "https://status.xxxh.de",
+    "name": "哪吒探针",
+    "url": "https://nezha.122666.xyz",
     "icon": "fa fa-chart-line"
   },
   {
     "name": "MiniChat",
-    "url": "https://t.me/ilancet",
+    "url": "@lwq0523_lwqbot",
     "icon": "fa-regular fa-comment-dots"
   },
   {
-    "name": "FileCodeBox",
-    "url": "https://file.xxxh.de",
-    "icon": "fa-solid fa-file-code"
+    "name": "Emby",
+    "url": "https://emby.775432.xyz:7777",
+    "icon": "fa-solid fa-video "
   }
 
 ]
