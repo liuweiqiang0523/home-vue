@@ -8,7 +8,7 @@
   {
     "type": "Telegram",
     "icon": "fa-regular fa-comment-dots",
-    "url": "@lwq0523_lwqbot",
+    "url": "https://t.me/lwq0523_lwqbot",
     "hoverColor": "#e78b0a"
   },
   {
@@ -18,7 +18,7 @@
     "hoverColor": "#6500fc"
   },
   {
-    "type": "nezha",
+    "type": "Nezha",
     "icon": "fa-solid fa-xmarks-lines ",
     "url": "https://nezha.122666.xyz",
     "hoverColor": "#007aff"
