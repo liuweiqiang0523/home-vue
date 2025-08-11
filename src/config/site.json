@@ -20,14 +20,13 @@
     "icon": "fa fa-chart-line"
   },
   {
+    "name": "22のkk探针",
+    "url": "https://kk.122666.xyz",
+    "icon": "fa fa-chart-line"
+  },
+  {
     "name": "Telegram🤖",
     "url": "https://t.me/lwq0523_lwqbot",
     "icon": "fa-regular fa-comment-dots"
   },
-  {
-    "name": "随机图片",
-    "url": "https://api.122666.xyz:666",
-    "icon": "fa-solid fa-laptop-file"
-  }
-
 ]
