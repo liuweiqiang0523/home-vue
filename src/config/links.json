@@ -6,9 +6,9 @@
     "hoverColor": "#e78b0a"
   },
   {
-    "type": "Telegram",
-    "icon": "fa-regular fa-comment-dots",
-    "url": "https://t.me/lwq0523_lwqbot",
+    "type": "Halo",
+    "icon": "fa-sharp fa-regular fa-face-smile-halo ",
+    "url": "https://halo.oknm.de",
     "hoverColor": "#e78b0a"
   },
   {
@@ -20,7 +20,7 @@
   {
     "type": "22のkk探针",
     "icon": "fa-solid fa-xmarks-lines ",
-    "url": "https://kk.122666.xyz",
+    "url": "https://kk.oknm.de",
     "hoverColor": "#007aff"
   }
 ]
